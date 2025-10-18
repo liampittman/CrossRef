@@ -1,0 +1,124 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# VS Code settings
+.vscode/
+
+# ArcGIS Pro project files
+FlashFloods/
+
+# GIS-related files
+*.gdb/
+*.gdb/*
+*.mxd
+*.sde
+*.aprx
+*.lyrx
+*.sd
+*.shp
+*.shx
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.fbn
+*.fbx
+*.ain
+*.aih
+*.atx
+*.ixs
+*.mxs
+*.cpg
+*.qpj
+*.qix
+*.shp.xml
+*.lock
+*.gfs
+*.gml
+*.aux.xml
+*.ovr
+*.tif
+*.tiff
+*.img
+*.sid
+*.jp2
+*.jpw
+*.kml
+*.kmz
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+*.swo
+*.~*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
