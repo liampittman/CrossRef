@@ -17,7 +17,6 @@ files via an analysis of flash flood events by county.
 ===============================================================================
 PROJECT STRUCTURE:
 - data/         : Raw input data files
-- FlashFloods/  : ArcGIS Map Project using the processed output files
 - output/       : Processed output files
 - python/       : Python scripts and notebooks
   └── CrossRef.py     : Main data wrangling script
