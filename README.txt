@@ -104,7 +104,8 @@ All files in this folder were created by the author.
 
 ===============================================================================
 LICENSE:
-Original code files are licensed under the MIT License.
+This project is licensed under the MIT License for all original code. See the
+LICENSE file for full terms.
 
 Original data files created by the author are licensed under the 
 Creative Commons Attribution 4.0 International (CC BY 4.0). 
