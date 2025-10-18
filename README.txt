@@ -3,8 +3,7 @@
 ===============================================================================
 
 AUTHOR INFORMATION:
-- Author: William Pittman
-- Contact: w651749@usm.edu
+- Author: Liam Pittman
 - Created: [2025-10-17]
 - Last Modified: [2025-10-17]
 - Version: 1.0
